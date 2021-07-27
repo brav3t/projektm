@@ -1,0 +1,3 @@
+# exclude folders
+_build/
+.vs/
